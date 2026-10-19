@@ -1,0 +1,4 @@
+[console_scripts]
+agentic-rag = agentic_rag.cli:main
+agentic-rag-ingest = agentic_rag.ingestion:main
+agentic-rag-ingest-csv = agentic_rag.tabular:main
